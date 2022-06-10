@@ -1,2 +1,2 @@
-# Swift
-Plain, small applications
+# Temp converter
+Простое приложение для конвертирования температуры по Фаренгейту и Цельсию
